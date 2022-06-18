@@ -11,9 +11,9 @@ ________________________________________________________________________________
 
   
 ___________________________________________________________________________________________
-                 <h3  align="center"> Visualização 👁️‍🗨️</h3>
+<h3  align="center"> Visualização 👁️‍🗨️</h3>
 
-<h3 align="center">Acesse o projeto clicando <a href="https://williama-hub.github.io/Instagram/index.html"> aqui</a>
+<p align="center">Acesse o projeto clicando <a href="https://williama-hub.github.io/Instagram/index.html"> aqui</a></p>
   
 
 ________________________________________________________________________________________________________
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-🚀Tecnologias Utilizadas
+<h3 align="center">🚀Tecnologias Utilizadas</h3>
 
 <p align="center">O projeto foi desenvolvido usando as seguintes tecnologias:
 *HTML
