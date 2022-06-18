@@ -1,6 +1,6 @@
 <h1 align="center">💻Sobre o projeto💻</h1>
 
-<p  align="center"">Projeto consiste em recriar a página inicial do <b>INTAGRAM</b> utilizando conhecimentos básicos </p>
+<p  align="center"">Projeto consiste em recriar a página inicial do <b>INTAGRAM</b> utilizando conhecimentos básicos do HTML e CSS</p>
   
   
 ________________________________________________________________________________
