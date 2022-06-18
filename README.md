@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 <h3 align="center">⁉️Motivo</h3>
 
-<p align="center"O projeto faz parte do Santander Bootcamp Fullstack Developer da Digital Innovation One.<p/>
+<p align="center"O projeto faz parte do Santander Bootcamp Fullstack Developer da Digital Innovation One.</p>
 
   
 ___________________________________________________________________________________________
-                 <h3  align="center"> Visualização :eye_speech_bubble:</h3>
+                 <h3  align="center"> Visualização 👁️‍🗨️</h3>
 
 <h3 align="center">Acesse o projeto clicando <a href="https://williama-hub.github.io/Instagram/index.html"> aqui</a>
   
