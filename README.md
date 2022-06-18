@@ -1,6 +1,6 @@
 <h1 align="center">💻Sobre o projeto💻</h1>
 
-<p algn="center">Projeto consiste em recriar a página inicial do <b>INTAGRAM</b> utilizando conhecimentos básicos </p>
+<p  align="center"">Projeto consiste em recriar a página inicial do <b>INTAGRAM</b> utilizando conhecimentos básicos </p>
   
   
 ________________________________________________________________________________
@@ -11,6 +11,7 @@ ________________________________________________________________________________
 
   
 ___________________________________________________________________________________________
+                 <h3  align="center"> Visualização :eye_speech_bubble:</h3>
 
 <h3 align="center">Acesse o projeto clicando <a href="https://williama-hub.github.io/Instagram/index.html"> aqui</a>
   
