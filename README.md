@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 <h3 align="center">⁉️Motivo</h3>
 
-<p align="center"O projeto faz parte do Santander Bootcamp Fullstack Developer da Digital Innovation One.</p>
+<p align="center">"O projeto faz parte do Santander Bootcamp Fullstack Developer da Digital Innovation One.</p>
 
   
 ___________________________________________________________________________________________
